@@ -33,11 +33,11 @@ Each version of the site has been given two of the six vulnerabilities.
 
 ## Green
 
-**Vulnerability 4:** Username Enumeration - Error message text becomes unbold if the username does not exist, revealing information to the attacker.
+**Vulnerability 4:** Username Enumeration - Error message text becomes unbold if the username does not exist, reveals information.
 
 <img src='https://github.com/buttabu/WebSecurity_Week8/blob/master/Week8/Week_8_GIFs/green1.gif' title='enumeration' alt='enumeration' /> 
 
-**Vulnerability 5:** Stored Cross-site Scripting - The "name" and "feedback" fields on the Feedback page are unsanitized. Guests can send malicious messages with embedded web scripts that will trigger once opened. 
+**Vulnerability 5:** Stored Cross-site Scripting - The "name" and "feedback" fields on the Feedback page are unsanitized. Unauthorize user can send malicious messages with embedded web scripts. 
 
 <img src='https://github.com/buttabu/WebSecurity_Week8/blob/master/Week8/Week_8_GIFs/green2.gif' title='xss' alt='xss' /> 
 
