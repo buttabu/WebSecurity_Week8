@@ -18,7 +18,7 @@ Each version of the site has been given two of the six vulnerabilities.
 
 **Vulnerability 1:** SQL Injection - The id parameter is un-sanitized and escapable on the salesperson page.
 
-<img src='https://github.com/buttabu/WebSecurity_Week8/blob/master/Week8/Week8_GIFs/blue1.gif' title='SQLI' alt='SQLI' /> 
+<img src='https://github.com/buttabu/WebSecurity_Week8/blob/master/Week8/Week_8_GIFs/blue1.gif' title='SQLI' alt='SQLI' /> 
 
 **Vulnerability 2:** Session Hijacking / Fixation - A new session ID is not regenerated when logging back in.
 
