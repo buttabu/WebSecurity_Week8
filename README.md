@@ -22,24 +22,24 @@ Each version of the site has been given two of the six vulnerabilities.
 
 **Vulnerability 2:** Session Hijacking / Fixation - A new session ID is not regenerated when logging back in.
 
-<img src='https://github.com/brandonmchin/CodePath/blob/master/Week8/Images/week8_sessid.gif' title='SESSID' alt='SESSID' /> 
+<img src='https://github.com/buttabu/WebSecurity_Week8/blob/master/Week8/Week_8_GIFs/blue2.gif' title='SESSID' alt='SESSID' /> 
 
 ## Red
 
 **Vulnerability 3:** Insecure Direct Object Reference - Hidden salesperson IDs are accessible.
 
-<img src='https://github.com/brandonmchin/CodePath/blob/master/Week8/Images/week8_idor.gif' title='IDOR' alt='IDOR' /> 
+<img src='https://github.com/buttabu/WebSecurity_Week8/blob/master/Week8/Week_8_GIFs/red1.gif' title='IDOR' alt='IDOR' /> 
 
 
 ## Green
 
 **Vulnerability 4:** Username Enumeration - Error message text becomes unbold if the username does not exist, revealing information to the attacker.
 
-<img src='https://github.com/brandonmchin/CodePath/blob/master/Week8/Images/week8_enum.gif' title='Enumeration' alt='Enumeration' /> 
+<img src='https://github.com/buttabu/WebSecurity_Week8/blob/master/Week8/Week_8_GIFs/green1.gif'' title='Enumeration' alt='Enumeration' /> 
 
 **Vulnerability 5:** Stored Cross-site Scripting - The "name" and "feedback" fields on the Feedback page are unsanitized. Guests can send malicious messages with embedded web scripts that will trigger once opened. 
 
-<img src='https://github.com/brandonmchin/CodePath/blob/master/Week8/Images/week8_xss.gif' title='XSS' alt='XSS' /> 
+<img src='https://github.com/buttabu/WebSecurity_Week8/blob/master/Week8/Week_8_GIFs/green2.gif'' title='XSS' alt='XSS' /> 
 
 ## License
 
